@@ -1,15 +1,11 @@
 +++
-title = "Another Hugo Post"
+categories = ["example", "configuration"]
+date = "2014-09-02T00:00:00Z"
 description = "Nothing special, but one post is boring."
-date = "2014-09-02"
-categories = [ "example", "configuration" ]
-tags = [
-    "example",
-    "hugo",
-    "toml"
-]
-+++
+tags = ["example", "hugo", "toml"]
+title = "Another Great Hugo Post"
 
++++
 TOML, YAML, JSON --- Oh my!
 -------------------------
 
