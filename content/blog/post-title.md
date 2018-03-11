@@ -5,7 +5,6 @@ description = "description"
 title = "Post title"
 
 +++
-# Demo Post
 
 sdflskdjfskdjfs
 
