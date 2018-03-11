@@ -1,6 +1,4 @@
 ---
-pages:
-- blog/post-title.md
 hide_body: false
 fields:
 - type: text
