@@ -2,7 +2,6 @@
 categories = ["example", "configuration"]
 date = "2014-09-02T00:00:00Z"
 description = "Nothing special, but one post is boring."
-draft = true
 tags = ["example", "hugo", "toml"]
 title = "Not Another Hugo Post"
 
