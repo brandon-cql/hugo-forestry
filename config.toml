@@ -1,4 +1,4 @@
-baseURL = ""
-canonifyURLs = true
+baseurl = ""
 languageCode = "en-us"
-title = "Hugo Example Blog"
+pluralizelisttitles = "false"
+title = "Moja"
