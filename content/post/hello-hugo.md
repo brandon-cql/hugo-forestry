@@ -1,16 +1,16 @@
 ---
-title: "Hello Hugo!"
-description: "Saying 'Hello' from Hugo"
-date: "2014-09-01"
+title: Hello Hugo!
+description: Saying 'Hello' from Hugo
+date: 2014-09-01 00:00:00 +0000
 categories:
-  - "example"
-  - "hello"
+- example
+- hello
 tags:
-  - "example"
-  - "hugo"
-  - "blog"
----
+- example
+- hugo
+- blog
 
+---
 Hello from Hugo! If you're reading this in your browser, good job! The file `content/post/hello-hugo.md` has been
 converted into a complete HTML document by Hugo. Isn't that pretty nifty?
 
