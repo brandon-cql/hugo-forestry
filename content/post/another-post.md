@@ -53,5 +53,5 @@ How would this entry's front matter look in `json`? That's easy enough to demons
 ```
 
 ```
-Sorry folks, code's closed.
+Just Kidding!
 ```
